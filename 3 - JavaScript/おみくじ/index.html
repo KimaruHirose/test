@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>練習</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div id="top">？</div>
+        <div id="button">運勢</div>
+        
+        <script>
+            //即時関数(関数を定義したと同時に実行する)
+            (function(){
+                var butoonEl = window.top.document.getElementById('button');
+                butoonEl.addEventListener('click', function(){
+                    //document.getElementById('top').innerHTML = 'hit';
+                    //Math.random()は0.0〜0.9999...の数字をランダムで呼び出す
+                    //Math.floor()は小数点を切り捨てる
+                    var results = ['大吉', '小吉', '中吉', '凶']
+                    var result = Math.floor(Math.random()*4);
+                    document.getElementById('top').innerHTML = results[result];
+                });
+                butoonEl.addEventListener('mousedown', function(){
+                    this.className ='pushed';
+                });
+                butoonEl.addEventListener('mouseup', function(){
+                    this.className ='';
+                });
+                
+                
+            })();
+        </script>
+    </body>
+</html>
