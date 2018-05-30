@@ -1,0 +1,13 @@
+package person;
+
+public class Roboto {
+		public String name =null;
+
+		public void talk(){
+			System.out.println(this.name +"が話す");
+		}
+		public void walk(){
+			System.out.println(this.na);
+		}
+	}
+

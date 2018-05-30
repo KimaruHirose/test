@@ -1,0 +1,28 @@
+
+		import java.sql.DriverManager;
+		import java.sql.SQLException;
+		import com.mysql.jdbc.Connection;
+/**
+ * <p>MySQLに接続するためのユーティリティークラスです。<br>
+ * ルールアカウントにてDBに接続されます。</p>
+ */
+	public class DBConnector {
+/**
+ * JDBC ドライバー名
+ */
+	private static String driverName ="com.mysql.jdbc.Driver";
+/**
+* データベース接続URL
+*/
+	private static String url =
+"jbdc:mysql://localhost/testdb?autoReconnect=true&usseSSL=false";
+
+/**
+*データベース接続ユーザー名
+*/
+private static String user ="root";
+/**
+*データベース接続パスワード
+*/}
+
+

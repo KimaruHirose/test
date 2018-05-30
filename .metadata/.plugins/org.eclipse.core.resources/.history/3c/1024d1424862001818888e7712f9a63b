@@ -1,0 +1,6 @@
+
+public class SmartPhone {
+	public void play(){
+		System.out.println("再生");
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from プロジェクト &apos;Iphone2&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;Iphone2&apos;&#x0D;&#x0A;- オリジナル要素: &apos;Iphone2/src/(デフォルト・パッケージ)&apos;" description="要素を削除" element1="/src&lt;" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1527236592691" subPackages="false" version="1.0"/>
+</session>

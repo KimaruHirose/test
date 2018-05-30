@@ -1,0 +1,35 @@
+package person;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		Person taro =new Person();
+		taro.name ="yamada";
+		taro.age =10;
+		System.out.println(taro.name);
+		System.out.println(taro.age);
+
+		Person ziro =new Person();
+		ziro.name ="ziro";
+		ziro.age =10;
+		System.out.println(ziro.name);
+		System.out.println(ziro.age);
+
+		Person hanako =new Person();
+		hanako.name ="hanako";
+		hanako.age =10;
+		System.out.println(hanako.name);
+		System.out.println(hanako.age);
+
+		Person kimaru =new Person();
+		kimaru.name ="kimaru";
+		kimaru.age =19;
+		System.out.println(kimaru.name);
+		System.out.println(kimaru.age);
+
+		Person
+
+	}
+
+}

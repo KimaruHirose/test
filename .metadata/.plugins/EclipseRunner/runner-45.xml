@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category name="カテゴリーなし">
+<launchConfiguration bookmark="false" name="Android"/>
+<launchConfiguration bookmark="false" name="Capsule"/>
+<launchConfiguration bookmark="false" name="Capsule (1)"/>
+<launchConfiguration bookmark="false" name="CheckLoadJDBC"/>
+<launchConfiguration bookmark="false" name="Hello"/>
+<launchConfiguration bookmark="false" name="HelloWorld"/>
+<launchConfiguration bookmark="false" name="HelloWorld (1)"/>
+<launchConfiguration bookmark="false" name="Iphone"/>
+<launchConfiguration bookmark="false" name="Iphone (1)"/>
+<launchConfiguration bookmark="false" name="Main"/>
+<launchConfiguration bookmark="false" name="Robot"/>
+<launchConfiguration bookmark="false" name="Teesst"/>
+<launchConfiguration bookmark="false" name="Test"/>
+<launchConfiguration bookmark="false" name="Test (1)"/>
+<launchConfiguration bookmark="false" name="Test (2)"/>
+<launchConfiguration bookmark="false" name="Test2"/>
+<launchConfiguration bookmark="false" name="aaa"/>
+</category>
+</runner>

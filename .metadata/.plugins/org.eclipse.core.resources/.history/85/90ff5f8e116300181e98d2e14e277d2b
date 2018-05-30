@@ -1,0 +1,23 @@
+/**
+ * <p>MySQLに接続するためのユーティリティークラスです。<br>
+ * ルールアカウントにてDBに接続されます。</p>
+ */
+	public class DBConnector {
+/**
+ * JDBC ドライバー名
+ */
+	private static String driverName ="com.mysql.jdbc.Driver";
+/**
+* データベース接続URL
+*/
+	private static String url =
+"jbdc:mysql://localhost/testdb?autoReconnect=true&usseSSL=false";
+
+	/**
+	*
+	*/
+	/**
+	*
+	*/}
+
+
