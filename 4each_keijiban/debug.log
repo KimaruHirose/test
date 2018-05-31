@@ -1,0 +1,6 @@
+[0521/105119.959:ERROR:process_info.cc(329)] VirtualQueryEx: アクセスが拒否されました。 (0x5)
+[0521/105119.962:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0521/105119.962:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef5753218 of 12 bytes failed: ReadProcessMemory 要求または WriteProcessMemory 要求の一部だけを完了しました。 (0x12B)
+[0521/105119.962:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0521/105119.963:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0521/105119.963:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 既存のプロセスにアクセスしようとしました。 (0xc000010a)
