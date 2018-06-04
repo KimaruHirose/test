@@ -2,5 +2,6 @@
 <section name="Workbench">
 	<list key="MRU_RUNTIME_STORE">
 		<item value="Tomcat8 (Java8)"/>
+		<item value="NULL_RUNTIME"/>
 	</list>
 </section>
